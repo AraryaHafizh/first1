@@ -2,7 +2,9 @@ tes 123
 tambah 123
 
 
-bll bla baa
-alla
-bblaa
-a
+bll bla baa               O
+                          |
+bblaa                     |
+a                     \\\\\\\
+tes
+tesss                   |||
